@@ -1,0 +1,60 @@
+{
+  "1": {
+    "key_points": [
+      "Definition of factor analysis",
+      "Used to identify underlying relationships between variables",
+      "Steps in factor analysis",
+      "Extraction of factors",
+      "Rotation of factors",
+      "Interpretation of factors",
+      "Assumptions of factor analysis"
+    ],
+    "max_score": 5
+  },
+  "2": {
+    "key_points": [
+      "Definition of eigenvectors",
+      "Eigenvectors represent directions of data",
+      "Each eigenvector has a corresponding eigenvalue",
+      "Eigenvectors are orthogonal if matrix is symmetric",
+      "Magnitude is not important, direction is",
+      "Used in PCA and other dimensionality reduction techniques"
+    ],
+    "max_score": 5
+  },
+  "3": {
+    "key_points": [
+      "Clustering is the task of grouping data points",
+      "Based on similarity or distance",
+      "No prior labels used (unsupervised)",
+      "Goal is to maximize intra-cluster similarity",
+      "Minimize inter-cluster similarity",
+      "Used in customer segmentation, image recognition, etc."
+    ],
+    "max_score": 5
+  },
+  "4": {
+    "key_points": [
+      "Curse of dimensionality",
+      "Increased computational complexity",
+      "Sparsity of data in high dimensions",
+      "Harder to visualize and interpret",
+      "Risk of overfitting",
+      "Distance measures become less meaningful"
+    ],
+    "max_score": 5
+  },
+  "5": {
+    "key_points": [
+      "Overfitting: model learns noise, poor generalization",
+      "Underfitting: model is too simple, high bias",
+      "Prevent overfitting using regularization",
+      "Use cross-validation",
+      "Simplify the model",
+      "Collect more data",
+      "Use early stopping in training",
+      "Perform feature selection"
+    ],
+    "max_score": 5
+  }
+}
