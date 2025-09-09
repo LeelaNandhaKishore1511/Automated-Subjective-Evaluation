@@ -1,0 +1,33 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env/
+env/
+venv/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# AWS / Local outputs
+temp_images/
+data/outputs/
+*.log
+
+# PDFs and temporary files (optional if you don’t want to push student PDFs)
+*.pdf
+*.jpg
+*.jpeg
+*.png
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
